@@ -6,7 +6,14 @@ Apart from my passion for backend development, I love traveling and exploring ne
 
 Currently, I'm seeking a job in Vancouver!
 
-🔗 **[Portfolio](https://portfolio.taikiumetsu.dev/)**
+## Projects
+
+| Project                                                  | Technologies                        | GitHub Repository                                 |
+|----------------------------------------------------------|-------------------------------------|----------------------------------------------------|
+| [Portfolio Site](https://portfolio.taikiumetsu.dev/)      | Next.js, TypeScript, Chakra UI      | [View on GitHub](https://github.com/taiki-umetsu/portfolio-ui) |
+| [Portfolio Admin Panel](https://portfolio-admin.taikiumetsu.dev/) | TypeScript, Next.js, react-admin    | [View on GitHub](https://github.com/taiki-umetsu/portfolio-admin)|
+| [Portfolio API](https://portfolio-api.taikiumetsu.dev/api-docs/index.html) | Ruby on Rails                       | [View on GitHub](https://github.com/taiki-umetsu/portfolio_api)|
+
 
 ## Skills 🚀
 
@@ -28,15 +35,6 @@ Currently, I'm seeking a job in Vancouver!
 - React
 - Next.js
 - ChatGPT
-
-
-## Projects
-
-| Project                                                  | Technologies                        | GitHub Repository                                 |
-|----------------------------------------------------------|-------------------------------------|----------------------------------------------------|
-| [Portfolio Site](https://portfolio.taikiumetsu.dev/)      | Next.js, TypeScript, Chakra UI      | [View on GitHub](https://github.com/taiki-umetsu/portfolio-ui) |
-| [Portfolio Admin Panel](https://portfolio-admin.taikiumetsu.dev/) | TypeScript, Next.js, react-admin    | [View on GitHub](https://github.com/taiki-umetsu/portfolio-admin)|
-| [Portfolio API](https://portfolio-api.taikiumetsu.dev/api-docs/index.html) | Ruby on Rails                       | [View on GitHub](https://github.com/taiki-umetsu/portfolio_api)|
 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/taiki-umetsu-backend-developer/)!
