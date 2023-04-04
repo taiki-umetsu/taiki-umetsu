@@ -38,6 +38,7 @@ Currently, I'm seeking a job in Vancouver!
 
 ### Currently Exploring
 ![Go](https://img.shields.io/badge/-Go-gray?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-ff69b4?style=flat-square)
