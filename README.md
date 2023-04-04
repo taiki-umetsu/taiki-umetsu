@@ -1,4 +1,4 @@
-Hi, I'm Taiki 👋
+## Hi, I'm Taiki 👋
 
 A dedicated backend developer with over 2 years of experience and a passion for problem-solving and creating efficient solutions. I have experience working with Ruby on Rails, JavaScript, SQL, and AWS. I take pride in my ability to learn and adapt quickly, as well as my commitment to delivering high-quality work to my clients and team members. I enjoy dedicating time to learning about new technologies and honing my skills to stay ahead in this rapidly evolving field.
 
