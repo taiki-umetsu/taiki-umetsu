@@ -1,6 +1,6 @@
 ## Hi, I'm Taiki 👋
 
-A dedicated backend developer with over 2 years of experience and a passion for problem-solving and creating efficient solutions. I have experience working with Ruby on Rails, JavaScript, SQL, and AWS. I take pride in my ability to learn and adapt quickly, as well as my commitment to delivering high-quality work to my clients and team members. I enjoy dedicating time to learning about new technologies and honing my skills to stay ahead in this rapidly evolving field.
+A dedicated full stack developer with over 2 years of experience and a passion for problem-solving and creating efficient solutions. I have experience working with Ruby on Rails, JavaScript, SQL, and AWS. I take pride in my ability to learn and adapt quickly, as well as my commitment to delivering high-quality work to my clients and team members. I enjoy dedicating time to learning about new technologies and honing my skills to stay ahead in this rapidly evolving field.
 
 Apart from my passion for backend development, I love traveling and exploring new cultures. My journey around Asia and my time spent living in Sydney have enriched my life experiences and broadened my perspective. I enjoy taking on challenges, such as reaching the Everest Base Camp in Nepal.
 
